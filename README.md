@@ -13,7 +13,7 @@ This study applies reinforcement learning (RL) to optimise routing policies in a
 - Custom simulation environment built using the OpenAI Gym interface. It defines the event-driven logic and is used for both training and evaluation of RL policies.
 
 `Project_Data/`
-- Stores pre-generated simulation data, including training histories, evaluation results, and saved PPO models.
+- Contains output files generated from running `Call_Centre_Project.ipynb`, including training logs, evaluation results, and saved PPO models.
 
 `PwC data EDA and Distribution Fitting.ipynb`
 - Notebook performing exploratory data analysis (EDA) and identifying best-fit probability distributions for inter-arrival, abandonment, and service durations using the PwC dataset.
